@@ -1,0 +1,23 @@
+.features-list {
+   display: flex;
+   align-items: flex-start;
+   justify-content: center;
+   gap: 24px;
+}
+.features-list-item {
+    width: calc((100% - 3 * 24px)/4);
+}
+.features-list-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 0px;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    width: 264px;
+    height: 112px;
+    background-color: #f4f4fd;
+    margin-bottom: 8px;
+}
+ 
