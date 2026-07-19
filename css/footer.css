@@ -79,7 +79,7 @@
 }
 
 .footer-form-feild:focus {
-    border-color: 1px solid #31d0aa;
+    border-color: #31d0aa;
 }
 
 .footer-form-feild::placeholder {
