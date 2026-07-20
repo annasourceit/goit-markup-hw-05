@@ -86,6 +86,9 @@ body:has(.modal-overlay.is-open) {
 .modal-form-wrraper {
     margin-bottom: 8px;
 }
+.modal-form-textarea-wrraper {
+    margin-bottom: 16px;
+}
 
 .modal-form-lable {
     font-weight: 400;
@@ -154,7 +157,6 @@ body:has(.modal-overlay.is-open) {
 }
 
 .modal-form-agreement {
-    margin-top: 8px;
     margin-bottom: 24px;
 }
 
